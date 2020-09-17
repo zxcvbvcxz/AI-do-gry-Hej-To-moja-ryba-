@@ -1,0 +1,1 @@
+Sztuczna itneligencja do gry planszowej "Hej! To moja ryba!".
